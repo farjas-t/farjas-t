@@ -1,7 +1,7 @@
 Hi! My name is Farjas 😄
 ========================================================================================================================================
 
-🌍  I am a MERN Stack Web Developer and Graphic Designer based in Kerala, India.
+🌍  I am a Full Stack Web Developer and Graphic Designer based in Kerala, India.
 <br/>
 
 ### Skills
